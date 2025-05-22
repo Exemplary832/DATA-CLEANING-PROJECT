@@ -1,2 +1,3 @@
 # DATA-CLEANING-PROJECT
-This is a repository detailing the data cleaning process using the Excel tool, alongside several functions and formulas used for the analysis process.
+## Project Overview
+This is a project briefly describing the basics of data cleaning in Microsoft Excel. 
